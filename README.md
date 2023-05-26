@@ -1,2 +1,3 @@
-# python_bot01
-token sniper bot
+# Alert-Ema
+Ema Bot that sends notification to telegram when ema crossing happens
+made by Jehad Abutabikh
